@@ -33,3 +33,11 @@ button {
 a:hover, button:hover {
     cursor: pointer;
 }
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+.links {
+display: flex;
+gap: 15px;
+}
