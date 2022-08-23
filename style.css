@@ -78,3 +78,16 @@ h2 {
     padding-top: 100px;
     padding-bottom: 100px;
 }
+.callToAction {
+    background: #3882F6;
+    color: #E5E7EB;
+    font-size: 18px;
+    margin: 100px;
+    padding: 50px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+}
+.callToActionButton {
+    border: 3px solid #E5E7EB;
+}
