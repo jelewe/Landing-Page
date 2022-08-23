@@ -22,6 +22,9 @@ h3 {
     color: #F9FAF8;
     margin: 0px;
 }
+p {
+    margin: 8px;
+}
 button {
     background: #3882F6;
     color:#F9FAF8;
@@ -40,4 +43,10 @@ a:hover, button:hover {
 .links {
 display: flex;
 gap: 15px;
+}
+.mainText {
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 0px 50px 0px;
+    margin: 0px;
 }
