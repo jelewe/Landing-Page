@@ -75,8 +75,14 @@ h2 {
     color: #1F2937;
     font-size: 36px;
     font-weight: lighter;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding: 100px 300px;
+    display: flex;
+    flex-direction: column;
+}
+.quoteBottom {
+    text-align: right;
+    font-size: 20px;
+    font-weight: 700;
 }
 .callToAction {
     background: #3882F6;
