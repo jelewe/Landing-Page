@@ -1,5 +1,8 @@
 /* style.css */
 
+body {
+    font-family: 'Roboto', sans-serif;
+}
 .header {
     background: #1F2937;
     color: #E5E7EB;
